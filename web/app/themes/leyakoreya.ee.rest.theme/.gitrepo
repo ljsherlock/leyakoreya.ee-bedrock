@@ -6,6 +6,7 @@
 [subrepo]
 	remote = git@github.com:ljsherlock/leyakoreya.ee.rest.theme.git
 	branch = master
-	commit = 
+	commit = 2d3df526741801e64ba1098cf8ca22df1acf7f8f
 	method = merge
 	cmdver = 0.4.1
+	parent = f18dfec2987ed0db8f881691e0ef7988cd25e51a
